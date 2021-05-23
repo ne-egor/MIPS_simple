@@ -1,0 +1,662 @@
+[
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "S",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "S",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "Q",
+        "CLK",
+        "R",
+        "S",
+        "D",
+        "gnd",
+        "vdd"
+      ], [
+        "Q",
+        "CLK",
+        "R",
+        "S",
+        "D",
+        "gnd",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "Q",
+        "CLK",
+        "D",
+        "gnd",
+        "vdd"
+      ], [
+        "Q",
+        "CLK",
+        "D",
+        "gnd",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "sm_cpu",
+      "sm_cpu"
+   ],
+   "devices": [
+       [
+         ["BUFX4", 1210],
+         ["NAND2X1", 1365],
+         ["AOI21X1", 1816],
+         ["MUX2X1", 1579],
+         ["OAI21X1", 1716],
+         ["AND2X2", 55],
+         ["NOR2X1", 900],
+         ["DFFSR", 32],
+         ["DFFPOSX1", 1024],
+         ["INVX1", 372],
+         ["NAND3X1", 213],
+         ["OAI22X1", 17],
+         ["INVX2", 159],
+         ["OR2X2", 41],
+         ["XNOR2X1", 41],
+         ["INVX8", 67],
+         ["AOI22X1", 18],
+         ["NOR3X1", 31],
+         ["CLKBUF1", 103],
+         ["XOR2X1", 15],
+         ["INVX4", 12],
+         ["BUFX2", 64 ]
+       ], [
+         ["BUFX4", 1210 ],
+         ["NAND2X1", 1365 ],
+         ["AOI21X1", 1816 ],
+         ["MUX2X1", 1579 ],
+         ["OAI21X1", 1716 ],
+         ["AND2X2", 55 ],
+         ["NOR2X1", 900 ],
+         ["DFFSR", 32 ],
+         ["DFFPOSX1", 1024 ],
+         ["INVX1", 372 ],
+         ["NAND3X1", 213 ],
+         ["OAI22X1", 17 ],
+         ["INVX2", 159 ],
+         ["OR2X2", 41 ],
+         ["XNOR2X1", 41 ],
+         ["INVX8", 67 ],
+         ["AOI22X1", 18 ],
+         ["NOR3X1", 31 ],
+         ["CLKBUF1", 103 ],
+         ["XOR2X1", 15 ],
+         ["INVX4", 12 ],
+         ["BUFX2", 64 ]
+       ]
+   ],
+   "nets": [
+    10891,
+    10891
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "imData[30]",
+        "imData[31]",
+        "imData[12]",
+        "imAddr[17]",
+        "imAddr[25]",
+        "imAddr[7]",
+        "imAddr[23]",
+        "imAddr[11]",
+        "imAddr[4]",
+        "imAddr[21]",
+        "imAddr[10]",
+        "imAddr[2]",
+        "imAddr[27]",
+        "imAddr[18]",
+        "imAddr[28]",
+        "imAddr[26]",
+        "imAddr[15]",
+        "imAddr[6]",
+        "imAddr[5]",
+        "imAddr[22]",
+        "imAddr[3]",
+        "imAddr[9]",
+        "imAddr[19]",
+        "imAddr[1]",
+        "imAddr[0]",
+        "imAddr[16]",
+        "imAddr[8]",
+        "imAddr[14]",
+        "imAddr[24]",
+        "imAddr[13]",
+        "imAddr[12]",
+        "imAddr[31]",
+        "imAddr[20]",
+        "imAddr[30]",
+        "imAddr[29]",
+        "regData[23]",
+        "regData[31]",
+        "regData[29]",
+        "regData[1]",
+        "regData[2]",
+        "regData[3]",
+        "regData[4]",
+        "regData[5]",
+        "regData[7]",
+        "regData[9]",
+        "regData[10]",
+        "regData[30]",
+        "regData[11]",
+        "regData[13]",
+        "regData[14]",
+        "regData[17]",
+        "regData[18]",
+        "regData[20]",
+        "regData[21]",
+        "regData[22]",
+        "regData[24]",
+        "regData[25]",
+        "regData[26]",
+        "regData[0]",
+        "regData[6]",
+        "regData[8]",
+        "regData[12]",
+        "regData[15]",
+        "regData[16]",
+        "regData[19]",
+        "regData[27]",
+        "regData[28]",
+        "regAddr[2]",
+        "clk",
+        "imData[29]",
+        "imData[2]",
+        "imData[1]",
+        "imData[4]",
+        "imData[28]",
+        "imData[26]",
+        "imData[27]",
+        "imData[5]",
+        "imData[11]",
+        "imData[23]",
+        "regAddr[1]",
+        "imData[22]",
+        "imData[17]",
+        "imData[18]",
+        "imData[0]",
+        "imData[10]",
+        "imData[21]",
+        "regAddr[0]",
+        "imData[16]",
+        "imData[6]",
+        "rst_n",
+        "imData[25]",
+        "imData[7]",
+        "imData[15]",
+        "imData[9]",
+        "imData[8]",
+        "imData[20]",
+        "regAddr[4]",
+        "imData[3]",
+        "regAddr[3]",
+        "imData[19]",
+        "imData[24]",
+        "imData[13]",
+        "imData[14]",
+        "vdd",
+        "gnd"
+      ], [
+        "imData[30]",
+        "imData[31]",
+        "imData[12]",
+        "imAddr[17]",
+        "imAddr[25]",
+        "imAddr[7]",
+        "imAddr[23]",
+        "imAddr[11]",
+        "imAddr[4]",
+        "imAddr[21]",
+        "imAddr[10]",
+        "imAddr[2]",
+        "imAddr[27]",
+        "imAddr[18]",
+        "imAddr[28]",
+        "imAddr[26]",
+        "imAddr[15]",
+        "imAddr[6]",
+        "imAddr[5]",
+        "imAddr[22]",
+        "imAddr[3]",
+        "imAddr[9]",
+        "imAddr[19]",
+        "imAddr[1]",
+        "imAddr[0]",
+        "imAddr[16]",
+        "imAddr[8]",
+        "imAddr[14]",
+        "imAddr[24]",
+        "imAddr[13]",
+        "imAddr[12]",
+        "imAddr[31]",
+        "imAddr[20]",
+        "imAddr[30]",
+        "imAddr[29]",
+        "regData[23]",
+        "regData[31]",
+        "regData[29]",
+        "regData[1]",
+        "regData[2]",
+        "regData[3]",
+        "regData[4]",
+        "regData[5]",
+        "regData[7]",
+        "regData[9]",
+        "regData[10]",
+        "regData[30]",
+        "regData[11]",
+        "regData[13]",
+        "regData[14]",
+        "regData[17]",
+        "regData[18]",
+        "regData[20]",
+        "regData[21]",
+        "regData[22]",
+        "regData[24]",
+        "regData[25]",
+        "regData[26]",
+        "regData[0]",
+        "regData[6]",
+        "regData[8]",
+        "regData[12]",
+        "regData[15]",
+        "regData[16]",
+        "regData[19]",
+        "regData[27]",
+        "regData[28]",
+        "regAddr[2]",
+        "clk",
+        "imData[29]",
+        "imData[2]",
+        "imData[1]",
+        "imData[4]",
+        "imData[28]",
+        "imData[26]",
+        "imData[27]",
+        "imData[5]",
+        "imData[11]",
+        "imData[23]",
+        "regAddr[1]",
+        "imData[22]",
+        "imData[17]",
+        "imData[18]",
+        "imData[0]",
+        "imData[10]",
+        "imData[21]",
+        "regAddr[0]",
+        "imData[16]",
+        "imData[6]",
+        "rst_n",
+        "imData[25]",
+        "imData[7]",
+        "imData[15]",
+        "imData[9]",
+        "imData[8]",
+        "imData[20]",
+        "regAddr[4]",
+        "imData[3]",
+        "regAddr[3]",
+        "imData[19]",
+        "imData[24]",
+        "imData[13]",
+        "imData[14]",
+        "vdd",
+        "gnd"
+      ]
+   ]
+  }
+]
